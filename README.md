@@ -1,0 +1,1 @@
+# golden-thinker-landing-page
