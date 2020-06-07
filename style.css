@@ -1,0 +1,115 @@
+/* custom fonts */
+@font-face {
+    font-family: Gill_Sans_MT_Book;
+    src: url(https://goldenthinker.coyjenningswdp.com/wp-content/uploads/fonts/Gill_Sans_MT_Book.ttf);
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: Gill_Sans_MT_Condensed;
+    src: url(https://goldenthinker.coyjenningswdp.com/wp-content/uploads/fonts/Gill_Sans_MT_Condensed.ttf);
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: Gill_Sans_MT_Extra_Bold;
+    src: url(https://goldenthinker.coyjenningswdp.com/wp-content/uploads/fonts/Gill_Sans_MT_Extra_Bold.ttf);
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: Gill_Sans_MT_Heavy_Italic;
+    src: url(https://goldenthinker.coyjenningswdp.com/wp-content/uploads/fonts/Gill_Sans_MT_Heavy_Italic.ttf);
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: Gill_Sans_MT_Heavy;
+    src: url(https://goldenthinker.coyjenningswdp.com/wp-content/uploads/fonts/Gill_Sans_MT_Heavy.ttf);
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: Gill_Sans_MT_Light_Italic;
+    src: url(https://goldenthinker.coyjenningswdp.com/wp-content/uploads/fonts/Gill_Sans_MT_Light_Italic.ttf);
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: Gill_Sans_MT_Light;
+    src: url(https://goldenthinker.coyjenningswdp.com/wp-content/uploads/fonts/Gill_Sans_MT_Light.ttf);
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: Gill_Sans_MT_Medium_Italic;
+    src: url(https://goldenthinker.coyjenningswdp.com/wp-content/uploads/fonts/Gill_Sans_MT_Medium_Italic.ttf);
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: Gill_Sans_MT_Medium;
+    src: url(https://goldenthinker.coyjenningswdp.com/wp-content/uploads/fonts/Gill_Sans_MT_Medium.ttf);
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: Gill_Sans_MT_Ultra_Bold_Condensed;
+    src: url(https://goldenthinker.coyjenningswdp.com/wp-content/uploads/fonts/Gill_Sans_MT_Ultra_Bold_Condensed.ttf);
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: Gill_Sans_MT_Ultra_Bold;
+    src: url(https://goldenthinker.coyjenningswdp.com/wp-content/uploads/fonts/Gill_Sans_MT_Ultra_Bold.ttf);
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: BankGothic_Md_BT;
+    src: url(https://goldenthinker.coyjenningswdp.com/wp-content/uploads/fonts/BankGothic_Md_BT.ttf);
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: Baskerville_Old_Face;
+    src: url(https://goldenthinker.coyjenningswdp.com/wp-content/uploads/fonts/Baskerville_Old_Face.ttf);
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: GENISO;
+    src: url(https://goldenthinker.coyjenningswdp.com/wp-content/uploads/fonts/GENISO.ttf);
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: Gill Sans_MT_Bold_Condensed;
+    src: url(https://goldenthinker.coyjenningswdp.com/wp-content/uploads/fonts/Sans_MT_Bold_Condensed.ttf);
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: Gill_Sans_MT_Bold_Extra_Condensed;
+    src: url(https://goldenthinker.coyjenningswdp.com/wp-content/uploads/fonts/Gill_Sans_MT_Bold_Extra_Condensed.ttf);
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: Gill_Sans_MT_Bold_Italic;
+    src: url(https://goldenthinker.coyjenningswdp.com/wp-content/uploads/fonts/Gill_Sans_MT_Bold_Italic.ttf);
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: Gill_Sans_MT_Bold;
+    src: url(https://goldenthinker.coyjenningswdp.com/wp-content/uploads/fonts/Gill_Sans_MT_Bold.ttf);
+    font-weight: bold;
+}
+
+
+@font-face {
+    font-family: Gill_Sans_MT_Book_Italic;
+    src: url(https://goldenthinker.coyjenningswdp.com/wp-content/uploads/fonts/Gill_Sans_MT_Book_Italic.ttf);
+    font-weight: normal;
+}
