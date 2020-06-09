@@ -1,3 +1,112 @@
+body {
+    background-image: none;
+}
+#main {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+.fusion-footer {
+    margin-top: -10px !important;
+}
+
+.mejs-container {
+    background-color: transparent !important;
+}
+
+/*** Responsive Styles Large Desktop And Above ***/
+@media all and (min-width: 1405px) {
+    #hoja1-vb > span {
+        margin-top: -170px !important;
+    }
+}
+
+/*** Responsive Styles Standard Desktop Only ***/
+@media all and (min-width: 1100px) and (max-width: 1405px) {
+    #hoja1-vb > span {
+        margin-top: -120px !important;
+    }
+}
+
+@media all and (min-width: 981px) and (max-width: 1099px) {
+    #hoja1-vb > span {
+        margin-top: -100px !important;
+    }
+}
+
+/*** Responsive Styles Tablet And Below ***/
+@media all and (max-width: 980px) {
+    #hoja1-vb > span {
+        margin-top: -100px !important;
+    }
+
+    #round360 {
+        left: 68% !important;
+    }
+}
+
+/*** Responsive Styles Tablet Only ***/
+@media all and (min-width: 768px) and (max-width: 980px) {
+    #hoja1-vb > span {
+        margin-top: -140px !important;
+    }
+
+    #round360 {
+        left: 70% !important;
+    }
+
+    #scientifically_proven {
+        left: 62% !important;
+    }
+
+    #thinker_cart {
+        left: 50% !important;
+    }
+}
+
+/*** Responsive Styles Smartphone Only ***/
+@media all and (max-width: 767px) {
+    #hoja1-vb > span {
+        margin-top: -70px !important;
+    }
+
+    #round360 {
+        left: 75% !important;
+    }
+
+    #scientifically_proven {
+        left: 62% !important;
+    }
+
+    #thinker_cart {
+        margin-top: 70vw !important;
+        width: 50% !important;
+        left: 50% !important;
+    }
+}
+
+/*** Responsive Styles Smartphone Portrait ***/
+@media all and (max-width: 479px) {
+    #hoja1-vb > span {
+        margin-top: -60px !important;
+    }
+
+    #round360 {
+        left: 68% !important;
+        width: 30% !important;
+    }
+
+    #scientifically_proven {
+        width: 30% !important;
+        left: 62% !important;
+    }
+
+    #thinker_cart {
+        margin-top: 85vw !important;
+        width: 50% !important;
+        left: 50% !important;
+    }
+}
+
 /* custom fonts */
 @font-face {
     font-family: Gill_Sans_MT_Book;
